@@ -9,13 +9,13 @@ public class Main {
 	 * I'll use the star pattern 
 	 * 
 	 *       0
-	 * 		/ \
+	 * 	/ \
 	 * 11-10---1---7
-	 * 	\ /     \ /
+	 *  \ /     \ /
 	 *   9       2
 	 *  / \	    / \
 	 * 6---5   4---3
-	 * 		\ /
+	 * 	\ /
 	 *       8
 	 * 
 	 * Successfully completes judge input correctly in 
